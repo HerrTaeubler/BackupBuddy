@@ -21,21 +21,6 @@ A user-friendly PowerShell GUI tool for Windows backup management.
   - Real-time status updates
   - Detailed backup logging
  
-
-
-
-### File Handling
-  - Smart file comparison
-  - Large file optimization
-  - Directory structure preservation
-  - Incremental backup support
-
-### Configuration
-  - Settings persistence
-  - Directory memory
-  - Theme preference saving
-  - AppData storage locatio
-
 ## ⚡ Quick Start
 
 Open PowerShell and run:
