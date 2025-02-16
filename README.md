@@ -44,7 +44,7 @@ Open PowerShell and run:
 - Settings stored in `%AppData%\BackupBuddy`
 - Persistent source/target directories
 - Theme preference memory
-- Automatic configuration backup
+
 
 ## 👨‍💻 Author
 
