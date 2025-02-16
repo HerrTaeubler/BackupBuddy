@@ -1,7 +1,9 @@
 # BackupBuddy v1.0
 
 ![License: MIT](https://img.shields.io/github/license/HerrTaeubler/BackupBuddy)
-
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/HerrTaeubler/BackupBuddy)
 
 A user-friendly PowerShell GUI tool for Windows backup management.
 
