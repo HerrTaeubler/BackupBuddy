@@ -10,10 +10,10 @@ A user-friendly PowerShell GUI tool for Windows backup management.
 ## 📸 Preview
 
 ### Light Mode
-![BackupBuddy Light Mode](screenshots/backupbuddy-light.png)
+![BackupBuddy Light Mode](Screenshots/backupbuddy-light.png)
 
 ### Dark Mode
-![BackupBuddy Dark Mode](screenshots/backupbuddy-dark.png)
+![BackupBuddy Dark Mode](Screenshots/backupbuddy-dark.png)
 
 ## 🔥 Core Features
 
