@@ -25,6 +25,7 @@ A user-friendly PowerShell GUI tool for Windows backup management.
 ## ⚡ Quick Start
 
 Open PowerShell and run:
+
 ```irm https://raw.githubusercontent.com/HerrTaeubler/BackupBuddy/main/Start-BackupBuddy.ps1 | iex```
 
 ### Alternative Method 1: Batch File
