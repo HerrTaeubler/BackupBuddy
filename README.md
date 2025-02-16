@@ -22,7 +22,7 @@ A user-friendly PowerShell GUI tool for Windows backup management.
   - Detailed backup logging
  
 
----------------------------------------------------------------
+
 
 ### File Handling
   - Smart file comparison
